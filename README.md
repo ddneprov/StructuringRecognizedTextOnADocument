@@ -9,4 +9,4 @@ Detect, recognize, and structure text on a business card or receipt using Vision
 ## *Example of the reciept*
 
 
-![Альтернативный текст](https://i.ibb.co/6XBS1Lc/2019-07-12-23-25-59.png)
+![Альтернативный текст](https://i.ibb.co/PMk5CMz/2019-07-12-22-05-26.png)
